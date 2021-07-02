@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Компьютерные игры</title>
+</head>
+<body style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; background: rgb(40, 40, 40); color: darkgray">
+    
+<h2>
+    {{title}}
+</h2>
+
+{{#each gamesArray}}
+    <div style="background: gray; margin-bottom: 15px; padding: 8px; color: black">
+        Название: <div style="font-weight:bold"> {{this.name}} </div>
+        <br>
+        Описание: <br>{{this.description}} 
+        <br>
+        <br>
+        Возрастное ограничение: <div style="font-weight:bold">{{this.requiredAge}}+ </div>
+    </div>
+{{/each}}
+
+</body>
+</html>

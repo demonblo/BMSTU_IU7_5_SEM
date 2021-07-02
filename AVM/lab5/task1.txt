@@ -1,0 +1,27 @@
+[
+  {
+    "email": "a@ya.ru",
+    "surname": "a",
+    "phoneNumber": "89009009999"
+  },
+  {
+    "email": "a@a",
+    "surname": "a2",
+    "phoneNumber": "888"
+  },
+  {
+    "email": "a",
+    "surname": "a2",
+    "phoneNumber": "889"
+  },
+  {
+    "email": "demonblo007@gmail.com",
+    "surname": "Blokhin",
+    "phoneNumber": "89265291378"
+  },
+  {
+    "email": "demonblo@mail.ru",
+    "surname": "Blohin",
+    "phoneNumber": "79265291366"
+  }
+]

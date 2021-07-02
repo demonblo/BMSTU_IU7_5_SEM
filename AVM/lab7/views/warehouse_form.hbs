@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Содержимое склада</title>
+    <link rel="stylesheet" href="/index.css">
+</head>
+<body>
+<form action="/warehouse" method="post">
+    <p>Наименование: <input type="text" name="name"  value="{{name}}" spellcheck="false" autocomplete="off"></p>
+    <p class="error">{{error}}</p>
+    <input class="btn-class submit-btn" type="submit" value="Получить содержимое">
+</form>
+</body>
+</html>

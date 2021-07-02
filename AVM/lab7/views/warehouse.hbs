@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Склад</title>
+    <link rel="stylesheet" href="/index.css">
+</head>
+<body>
+
+
+<h2>Содержимое склада {{name}}</h2>
+
+{{#each vehicles}}
+    <div class="wh-entry">
+        Машина: {{this}}
+    </div>
+{{/each}}
+<input class="btn-class blue-btn" type="button" onclick="location.href='/';" value="Назад" />
+</body>
+</html>

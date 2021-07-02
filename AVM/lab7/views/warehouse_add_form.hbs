@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Добавить склад</title>
+    <link rel="stylesheet" href="/index.css">
+</head>
+<body>
+<form action="/add_warehouse" method="post" id="add-wh-form">
+    <p>Наименование: <input type="text" name="name"  value="{{name}}" spellcheck="false" autocomplete="off"></p>
+    <div id="v-list">
+    </div>
+    <div id="add-field-id" class="btn-class">Добавить машину</div>
+    <p class="error">{{error}}</p>
+    <input class="btn-class submit-btn" type="submit" value="Создать склад">
+</form>
+<script src="/index.js"></script>
+</body>
+</html>

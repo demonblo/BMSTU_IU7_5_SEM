@@ -1,0 +1,23 @@
+body {
+    padding: 30px;
+    background: rgb(40, 40, 40);
+    color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.btn-class {
+    padding: 6px;
+    background: purple;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.input-class {
+    background-color: rgb(30, 30, 30); /* Цвет фона */
+    color: lightgray; /* Цвет текста */
+}
+
+.err-class {
+	color: rgb(200, 0, 0);
+}

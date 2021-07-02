@@ -1,0 +1,13 @@
+body {
+    padding: 30px;
+    background: lightgray;
+    font-family: 'Times New Roman', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.btn-class {
+    padding: 6px;
+    background: ghostwhite;
+    color: darkslateblue;
+    cursor: pointer;
+    display: inline-block;
+}

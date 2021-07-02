@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Add Email</title>
+    <link rel="stylesheet" href="/style1.css">
+</head>
+<body>
+
+<h1>Add Email</h1>
+
+<p>Email:</p>
+<input id="field-email" type="text" spellcheck="false" autocomplete="off">
+
+<p>Surname:</p>
+<input id="field-surname" type="text" spellcheck="false" autocomplete="off">
+
+<p>Phone Numbe:r</p>
+<input id="field-phone" type="text" spellcheck="false" autocomplete="off">
+
+<br>
+<br>
+
+<div onclick="makeAction()" class="btn-class">Send</div>
+
+<script>
+    "use strict";
+
+    function ajaxPost(urlString, bodyString, callback) {
+        let r = new XMLHttpRequest();
+        r.open("POST", urlString, true);
+        r.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+        r.send(bodyString);
+        r.onload = function() {
+            callback(r.response);
+        }
+    }
+
+    function makeAction() {
+
+        const email = document.getElementById("field-email").value;
+        const surname = document.getElementById("field-surname").value;
+        const phoneNumber = document.getElementById("field-phone").value;
+
+        ajaxPost("/save/info", JSON.stringify({
+            email, surname, phoneNumber
+        }), function(answerString) {
+            const answerObject = JSON.parse(answerString);
+            const result = answerObject.result;
+            alert(result);
+        });
+    }
+</script>
+    
+</body>
+</html>

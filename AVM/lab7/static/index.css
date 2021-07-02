@@ -1,0 +1,57 @@
+body {
+    padding: 10px;
+    font-family: 'roboto', monospace;
+}
+
+input {
+    box-sizing: border-box;
+    border: 2px solid #555;
+    border-radius: 4px;
+}
+
+textarea {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 5em;
+    border: 2px solid #555;
+    border-radius: 4px;
+    margin: 0.5em 0.5em 0.5em 0;
+}
+
+.btn-class {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0.5em;
+}
+
+.blue-btn {
+    background-color: #4242ce;
+}
+
+p {
+    text-align:left;
+    width: 20em;
+}
+form {
+    margin-bottom: 1em;
+}
+
+form input:not(.submit-btn) {
+    float: right;
+}
+
+.error {
+    color: red;
+}
+
+.wh-entry {
+    background: #AAA;
+    margin-bottom: 15px;
+    padding: 8px;
+    border-radius: 4px;
+    max-width: 20em;
+}
