@@ -1,0 +1,1 @@
+{"mass":[{"zero":{"string":"privet"}}, {"first":{"string":"menya zovut Dima!"}}, {"second":{"string":"u menya vse ploho"}}, {"third":{"string":"pomogiti pojalusto"}}, {"fourth":{"string":"))))))))))))"}}]}

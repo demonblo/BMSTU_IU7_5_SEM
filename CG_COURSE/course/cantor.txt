@@ -1,0 +1,1488 @@
+First:
+vertex: -2 -0.15 1
+vertex: 2 -0.15 1
+vertex: 2 -0.15 -1
+Second:
+vertex: -2 -0.15 1
+vertex: 2 -0.15 -1
+vertex: -2 -0.15 -1
+Third:
+vertex: 2 -0.15 1
+vertex: 2 0.15 1
+vertex: 2 0.15 -1
+Fourth:
+vertex: 2 0.15 -1
+vertex: 2 -0.15 -1
+vertex: 2 -0.15 1
+Fifth:
+vertex: 2 0.15 -1
+vertex: -2 0.15 1
+vertex: -2 0.15 -1
+Sixth:
+vertex: 2 0.15 -1
+vertex: 2 0.15 1
+vertex: -2 0.15 1
+Seventh:
+vertex: -2 -0.15 1
+vertex: -2 0.15 1
+vertex: -2 0.15 -1
+Eighth:
+vertex: -2 -0.15 1
+vertex: -2 0.15 -1
+vertex: -2 -0.15 -1
+Nineth:
+vertex: 2 -0.15 1
+vertex: -2 0.15 1
+vertex: -2 -0.15 1
+Tenth:
+vertex: 2 -0.15 1
+vertex: -2 0.15 1
+vertex: 2 0.15 1
+Eleventh:
+vertex: -2 0.15 -1
+vertex: -2 -0.15 -1
+vertex: 2 0.15 -1
+Twelwth:
+vertex: -2 -0.15 -1
+vertex: 2 0.15 -1
+vertex: 2 -0.15 -1
+First:
+vertex: -2 0.15 1
+vertex: -0.6666667 0.15 1
+vertex: -0.6666667 0.15 -1
+Second:
+vertex: -2 0.15 1
+vertex: -0.6666667 0.15 -1
+vertex: -2 0.15 -1
+Third:
+vertex: -0.6666667 0.15 1
+vertex: -0.6666667 0.45 1
+vertex: -0.6666667 0.45 -1
+Fourth:
+vertex: -0.6666667 0.45 -1
+vertex: -0.6666667 0.15 -1
+vertex: -0.6666667 0.15 1
+Fifth:
+vertex: -0.6666667 0.45 -1
+vertex: -2 0.45 1
+vertex: -2 0.45 -1
+Sixth:
+vertex: -0.6666667 0.45 -1
+vertex: -0.6666667 0.45 1
+vertex: -2 0.45 1
+Seventh:
+vertex: -2 0.15 1
+vertex: -2 0.45 1
+vertex: -2 0.45 -1
+Eighth:
+vertex: -2 0.15 1
+vertex: -2 0.45 -1
+vertex: -2 0.15 -1
+Nineth:
+vertex: -0.6666667 0.15 1
+vertex: -2 0.45 1
+vertex: -2 0.15 1
+Tenth:
+vertex: -0.6666667 0.15 1
+vertex: -2 0.45 1
+vertex: -0.6666667 0.45 1
+Eleventh:
+vertex: -2 0.45 -1
+vertex: -2 0.15 -1
+vertex: -0.6666667 0.45 -1
+Twelwth:
+vertex: -2 0.15 -1
+vertex: -0.6666667 0.45 -1
+vertex: -0.6666667 0.15 -1
+First:
+vertex: 0.6666667 0.15 1
+vertex: 2 0.15 1
+vertex: 2 0.15 -1
+Second:
+vertex: 0.6666667 0.15 1
+vertex: 2 0.15 -1
+vertex: 0.6666667 0.15 -1
+Third:
+vertex: 2 0.15 1
+vertex: 2 0.45 1
+vertex: 2 0.45 -1
+Fourth:
+vertex: 2 0.45 -1
+vertex: 2 0.15 -1
+vertex: 2 0.15 1
+Fifth:
+vertex: 2 0.45 -1
+vertex: 0.6666667 0.45 1
+vertex: 0.6666667 0.45 -1
+Sixth:
+vertex: 2 0.45 -1
+vertex: 2 0.45 1
+vertex: 0.6666667 0.45 1
+Seventh:
+vertex: 0.6666667 0.15 1
+vertex: 0.6666667 0.45 1
+vertex: 0.6666667 0.45 -1
+Eighth:
+vertex: 0.6666667 0.15 1
+vertex: 0.6666667 0.45 -1
+vertex: 0.6666667 0.15 -1
+Nineth:
+vertex: 2 0.15 1
+vertex: 0.6666667 0.45 1
+vertex: 0.6666667 0.15 1
+Tenth:
+vertex: 2 0.15 1
+vertex: 0.6666667 0.45 1
+vertex: 2 0.45 1
+Eleventh:
+vertex: 0.6666667 0.45 -1
+vertex: 0.6666667 0.15 -1
+vertex: 2 0.45 -1
+Twelwth:
+vertex: 0.6666667 0.15 -1
+vertex: 2 0.45 -1
+vertex: 2 0.15 -1
+First:
+vertex: -2 0.45 1
+vertex: -1.555556 0.45 1
+vertex: -1.555556 0.45 -1
+Second:
+vertex: -2 0.45 1
+vertex: -1.555556 0.45 -1
+vertex: -2 0.45 -1
+Third:
+vertex: -1.555556 0.45 1
+vertex: -1.555556 0.75 1
+vertex: -1.555556 0.75 -1
+Fourth:
+vertex: -1.555556 0.75 -1
+vertex: -1.555556 0.45 -1
+vertex: -1.555556 0.45 1
+Fifth:
+vertex: -1.555556 0.75 -1
+vertex: -2 0.75 1
+vertex: -2 0.75 -1
+Sixth:
+vertex: -1.555556 0.75 -1
+vertex: -1.555556 0.75 1
+vertex: -2 0.75 1
+Seventh:
+vertex: -2 0.45 1
+vertex: -2 0.75 1
+vertex: -2 0.75 -1
+Eighth:
+vertex: -2 0.45 1
+vertex: -2 0.75 -1
+vertex: -2 0.45 -1
+Nineth:
+vertex: -1.555556 0.45 1
+vertex: -2 0.75 1
+vertex: -2 0.45 1
+Tenth:
+vertex: -1.555556 0.45 1
+vertex: -2 0.75 1
+vertex: -1.555556 0.75 1
+Eleventh:
+vertex: -2 0.75 -1
+vertex: -2 0.45 -1
+vertex: -1.555556 0.75 -1
+Twelwth:
+vertex: -2 0.45 -1
+vertex: -1.555556 0.75 -1
+vertex: -1.555556 0.45 -1
+First:
+vertex: -1.111111 0.45 1
+vertex: -0.6666667 0.45 1
+vertex: -0.6666667 0.45 -1
+Second:
+vertex: -1.111111 0.45 1
+vertex: -0.6666667 0.45 -1
+vertex: -1.111111 0.45 -1
+Third:
+vertex: -0.6666667 0.45 1
+vertex: -0.6666667 0.75 1
+vertex: -0.6666667 0.75 -1
+Fourth:
+vertex: -0.6666667 0.75 -1
+vertex: -0.6666667 0.45 -1
+vertex: -0.6666667 0.45 1
+Fifth:
+vertex: -0.6666667 0.75 -1
+vertex: -1.111111 0.75 1
+vertex: -1.111111 0.75 -1
+Sixth:
+vertex: -0.6666667 0.75 -1
+vertex: -0.6666667 0.75 1
+vertex: -1.111111 0.75 1
+Seventh:
+vertex: -1.111111 0.45 1
+vertex: -1.111111 0.75 1
+vertex: -1.111111 0.75 -1
+Eighth:
+vertex: -1.111111 0.45 1
+vertex: -1.111111 0.75 -1
+vertex: -1.111111 0.45 -1
+Nineth:
+vertex: -0.6666667 0.45 1
+vertex: -1.111111 0.75 1
+vertex: -1.111111 0.45 1
+Tenth:
+vertex: -0.6666667 0.45 1
+vertex: -1.111111 0.75 1
+vertex: -0.6666667 0.75 1
+Eleventh:
+vertex: -1.111111 0.75 -1
+vertex: -1.111111 0.45 -1
+vertex: -0.6666667 0.75 -1
+Twelwth:
+vertex: -1.111111 0.45 -1
+vertex: -0.6666667 0.75 -1
+vertex: -0.6666667 0.45 -1
+First:
+vertex: -2 0.75 1
+vertex: -1.851852 0.75 1
+vertex: -1.851852 0.75 -1
+Second:
+vertex: -2 0.75 1
+vertex: -1.851852 0.75 -1
+vertex: -2 0.75 -1
+Third:
+vertex: -1.851852 0.75 1
+vertex: -1.851852 1.05 1
+vertex: -1.851852 1.05 -1
+Fourth:
+vertex: -1.851852 1.05 -1
+vertex: -1.851852 0.75 -1
+vertex: -1.851852 0.75 1
+Fifth:
+vertex: -1.851852 1.05 -1
+vertex: -2 1.05 1
+vertex: -2 1.05 -1
+Sixth:
+vertex: -1.851852 1.05 -1
+vertex: -1.851852 1.05 1
+vertex: -2 1.05 1
+Seventh:
+vertex: -2 0.75 1
+vertex: -2 1.05 1
+vertex: -2 1.05 -1
+Eighth:
+vertex: -2 0.75 1
+vertex: -2 1.05 -1
+vertex: -2 0.75 -1
+Nineth:
+vertex: -1.851852 0.75 1
+vertex: -2 1.05 1
+vertex: -2 0.75 1
+Tenth:
+vertex: -1.851852 0.75 1
+vertex: -2 1.05 1
+vertex: -1.851852 1.05 1
+Eleventh:
+vertex: -2 1.05 -1
+vertex: -2 0.75 -1
+vertex: -1.851852 1.05 -1
+Twelwth:
+vertex: -2 0.75 -1
+vertex: -1.851852 1.05 -1
+vertex: -1.851852 0.75 -1
+First:
+vertex: -1.703704 0.75 1
+vertex: -1.555556 0.75 1
+vertex: -1.555556 0.75 -1
+Second:
+vertex: -1.703704 0.75 1
+vertex: -1.555556 0.75 -1
+vertex: -1.703704 0.75 -1
+Third:
+vertex: -1.555556 0.75 1
+vertex: -1.555556 1.05 1
+vertex: -1.555556 1.05 -1
+Fourth:
+vertex: -1.555556 1.05 -1
+vertex: -1.555556 0.75 -1
+vertex: -1.555556 0.75 1
+Fifth:
+vertex: -1.555556 1.05 -1
+vertex: -1.703704 1.05 1
+vertex: -1.703704 1.05 -1
+Sixth:
+vertex: -1.555556 1.05 -1
+vertex: -1.555556 1.05 1
+vertex: -1.703704 1.05 1
+Seventh:
+vertex: -1.703704 0.75 1
+vertex: -1.703704 1.05 1
+vertex: -1.703704 1.05 -1
+Eighth:
+vertex: -1.703704 0.75 1
+vertex: -1.703704 1.05 -1
+vertex: -1.703704 0.75 -1
+Nineth:
+vertex: -1.555556 0.75 1
+vertex: -1.703704 1.05 1
+vertex: -1.703704 0.75 1
+Tenth:
+vertex: -1.555556 0.75 1
+vertex: -1.703704 1.05 1
+vertex: -1.555556 1.05 1
+Eleventh:
+vertex: -1.703704 1.05 -1
+vertex: -1.703704 0.75 -1
+vertex: -1.555556 1.05 -1
+Twelwth:
+vertex: -1.703704 0.75 -1
+vertex: -1.555556 1.05 -1
+vertex: -1.555556 0.75 -1
+First:
+vertex: -2 1.05 1
+vertex: -1.950617 1.05 1
+vertex: -1.950617 1.05 -1
+Second:
+vertex: -2 1.05 1
+vertex: -1.950617 1.05 -1
+vertex: -2 1.05 -1
+Third:
+vertex: -1.950617 1.05 1
+vertex: -1.950617 1.35 1
+vertex: -1.950617 1.35 -1
+Fourth:
+vertex: -1.950617 1.35 -1
+vertex: -1.950617 1.05 -1
+vertex: -1.950617 1.05 1
+Fifth:
+vertex: -1.950617 1.35 -1
+vertex: -2 1.35 1
+vertex: -2 1.35 -1
+Sixth:
+vertex: -1.950617 1.35 -1
+vertex: -1.950617 1.35 1
+vertex: -2 1.35 1
+Seventh:
+vertex: -2 1.05 1
+vertex: -2 1.35 1
+vertex: -2 1.35 -1
+Eighth:
+vertex: -2 1.05 1
+vertex: -2 1.35 -1
+vertex: -2 1.05 -1
+Nineth:
+vertex: -1.950617 1.05 1
+vertex: -2 1.35 1
+vertex: -2 1.05 1
+Tenth:
+vertex: -1.950617 1.05 1
+vertex: -2 1.35 1
+vertex: -1.950617 1.35 1
+Eleventh:
+vertex: -2 1.35 -1
+vertex: -2 1.05 -1
+vertex: -1.950617 1.35 -1
+Twelwth:
+vertex: -2 1.05 -1
+vertex: -1.950617 1.35 -1
+vertex: -1.950617 1.05 -1
+First:
+vertex: -1.901235 1.05 1
+vertex: -1.851852 1.05 1
+vertex: -1.851852 1.05 -1
+Second:
+vertex: -1.901235 1.05 1
+vertex: -1.851852 1.05 -1
+vertex: -1.901235 1.05 -1
+Third:
+vertex: -1.851852 1.05 1
+vertex: -1.851852 1.35 1
+vertex: -1.851852 1.35 -1
+Fourth:
+vertex: -1.851852 1.35 -1
+vertex: -1.851852 1.05 -1
+vertex: -1.851852 1.05 1
+Fifth:
+vertex: -1.851852 1.35 -1
+vertex: -1.901235 1.35 1
+vertex: -1.901235 1.35 -1
+Sixth:
+vertex: -1.851852 1.35 -1
+vertex: -1.851852 1.35 1
+vertex: -1.901235 1.35 1
+Seventh:
+vertex: -1.901235 1.05 1
+vertex: -1.901235 1.35 1
+vertex: -1.901235 1.35 -1
+Eighth:
+vertex: -1.901235 1.05 1
+vertex: -1.901235 1.35 -1
+vertex: -1.901235 1.05 -1
+Nineth:
+vertex: -1.851852 1.05 1
+vertex: -1.901235 1.35 1
+vertex: -1.901235 1.05 1
+Tenth:
+vertex: -1.851852 1.05 1
+vertex: -1.901235 1.35 1
+vertex: -1.851852 1.35 1
+Eleventh:
+vertex: -1.901235 1.35 -1
+vertex: -1.901235 1.05 -1
+vertex: -1.851852 1.35 -1
+Twelwth:
+vertex: -1.901235 1.05 -1
+vertex: -1.851852 1.35 -1
+vertex: -1.851852 1.05 -1
+First:
+vertex: -1.703704 1.05 1
+vertex: -1.654321 1.05 1
+vertex: -1.654321 1.05 -1
+Second:
+vertex: -1.703704 1.05 1
+vertex: -1.654321 1.05 -1
+vertex: -1.703704 1.05 -1
+Third:
+vertex: -1.654321 1.05 1
+vertex: -1.654321 1.35 1
+vertex: -1.654321 1.35 -1
+Fourth:
+vertex: -1.654321 1.35 -1
+vertex: -1.654321 1.05 -1
+vertex: -1.654321 1.05 1
+Fifth:
+vertex: -1.654321 1.35 -1
+vertex: -1.703704 1.35 1
+vertex: -1.703704 1.35 -1
+Sixth:
+vertex: -1.654321 1.35 -1
+vertex: -1.654321 1.35 1
+vertex: -1.703704 1.35 1
+Seventh:
+vertex: -1.703704 1.05 1
+vertex: -1.703704 1.35 1
+vertex: -1.703704 1.35 -1
+Eighth:
+vertex: -1.703704 1.05 1
+vertex: -1.703704 1.35 -1
+vertex: -1.703704 1.05 -1
+Nineth:
+vertex: -1.654321 1.05 1
+vertex: -1.703704 1.35 1
+vertex: -1.703704 1.05 1
+Tenth:
+vertex: -1.654321 1.05 1
+vertex: -1.703704 1.35 1
+vertex: -1.654321 1.35 1
+Eleventh:
+vertex: -1.703704 1.35 -1
+vertex: -1.703704 1.05 -1
+vertex: -1.654321 1.35 -1
+Twelwth:
+vertex: -1.703704 1.05 -1
+vertex: -1.654321 1.35 -1
+vertex: -1.654321 1.05 -1
+First:
+vertex: -1.604938 1.05 1
+vertex: -1.555556 1.05 1
+vertex: -1.555556 1.05 -1
+Second:
+vertex: -1.604938 1.05 1
+vertex: -1.555556 1.05 -1
+vertex: -1.604938 1.05 -1
+Third:
+vertex: -1.555556 1.05 1
+vertex: -1.555556 1.35 1
+vertex: -1.555556 1.35 -1
+Fourth:
+vertex: -1.555556 1.35 -1
+vertex: -1.555556 1.05 -1
+vertex: -1.555556 1.05 1
+Fifth:
+vertex: -1.555556 1.35 -1
+vertex: -1.604938 1.35 1
+vertex: -1.604938 1.35 -1
+Sixth:
+vertex: -1.555556 1.35 -1
+vertex: -1.555556 1.35 1
+vertex: -1.604938 1.35 1
+Seventh:
+vertex: -1.604938 1.05 1
+vertex: -1.604938 1.35 1
+vertex: -1.604938 1.35 -1
+Eighth:
+vertex: -1.604938 1.05 1
+vertex: -1.604938 1.35 -1
+vertex: -1.604938 1.05 -1
+Nineth:
+vertex: -1.555556 1.05 1
+vertex: -1.604938 1.35 1
+vertex: -1.604938 1.05 1
+Tenth:
+vertex: -1.555556 1.05 1
+vertex: -1.604938 1.35 1
+vertex: -1.555556 1.35 1
+Eleventh:
+vertex: -1.604938 1.35 -1
+vertex: -1.604938 1.05 -1
+vertex: -1.555556 1.35 -1
+Twelwth:
+vertex: -1.604938 1.05 -1
+vertex: -1.555556 1.35 -1
+vertex: -1.555556 1.05 -1
+First:
+vertex: -1.111111 0.75 1
+vertex: -0.962963 0.75 1
+vertex: -0.962963 0.75 -1
+Second:
+vertex: -1.111111 0.75 1
+vertex: -0.962963 0.75 -1
+vertex: -1.111111 0.75 -1
+Third:
+vertex: -0.962963 0.75 1
+vertex: -0.962963 1.05 1
+vertex: -0.962963 1.05 -1
+Fourth:
+vertex: -0.962963 1.05 -1
+vertex: -0.962963 0.75 -1
+vertex: -0.962963 0.75 1
+Fifth:
+vertex: -0.962963 1.05 -1
+vertex: -1.111111 1.05 1
+vertex: -1.111111 1.05 -1
+Sixth:
+vertex: -0.962963 1.05 -1
+vertex: -0.962963 1.05 1
+vertex: -1.111111 1.05 1
+Seventh:
+vertex: -1.111111 0.75 1
+vertex: -1.111111 1.05 1
+vertex: -1.111111 1.05 -1
+Eighth:
+vertex: -1.111111 0.75 1
+vertex: -1.111111 1.05 -1
+vertex: -1.111111 0.75 -1
+Nineth:
+vertex: -0.962963 0.75 1
+vertex: -1.111111 1.05 1
+vertex: -1.111111 0.75 1
+Tenth:
+vertex: -0.962963 0.75 1
+vertex: -1.111111 1.05 1
+vertex: -0.962963 1.05 1
+Eleventh:
+vertex: -1.111111 1.05 -1
+vertex: -1.111111 0.75 -1
+vertex: -0.962963 1.05 -1
+Twelwth:
+vertex: -1.111111 0.75 -1
+vertex: -0.962963 1.05 -1
+vertex: -0.962963 0.75 -1
+First:
+vertex: -0.8148148 0.75 1
+vertex: -0.6666667 0.75 1
+vertex: -0.6666667 0.75 -1
+Second:
+vertex: -0.8148148 0.75 1
+vertex: -0.6666667 0.75 -1
+vertex: -0.8148148 0.75 -1
+Third:
+vertex: -0.6666667 0.75 1
+vertex: -0.6666667 1.05 1
+vertex: -0.6666667 1.05 -1
+Fourth:
+vertex: -0.6666667 1.05 -1
+vertex: -0.6666667 0.75 -1
+vertex: -0.6666667 0.75 1
+Fifth:
+vertex: -0.6666667 1.05 -1
+vertex: -0.8148148 1.05 1
+vertex: -0.8148148 1.05 -1
+Sixth:
+vertex: -0.6666667 1.05 -1
+vertex: -0.6666667 1.05 1
+vertex: -0.8148148 1.05 1
+Seventh:
+vertex: -0.8148148 0.75 1
+vertex: -0.8148148 1.05 1
+vertex: -0.8148148 1.05 -1
+Eighth:
+vertex: -0.8148148 0.75 1
+vertex: -0.8148148 1.05 -1
+vertex: -0.8148148 0.75 -1
+Nineth:
+vertex: -0.6666667 0.75 1
+vertex: -0.8148148 1.05 1
+vertex: -0.8148148 0.75 1
+Tenth:
+vertex: -0.6666667 0.75 1
+vertex: -0.8148148 1.05 1
+vertex: -0.6666667 1.05 1
+Eleventh:
+vertex: -0.8148148 1.05 -1
+vertex: -0.8148148 0.75 -1
+vertex: -0.6666667 1.05 -1
+Twelwth:
+vertex: -0.8148148 0.75 -1
+vertex: -0.6666667 1.05 -1
+vertex: -0.6666667 0.75 -1
+First:
+vertex: -1.111111 1.05 1
+vertex: -1.061728 1.05 1
+vertex: -1.061728 1.05 -1
+Second:
+vertex: -1.111111 1.05 1
+vertex: -1.061728 1.05 -1
+vertex: -1.111111 1.05 -1
+Third:
+vertex: -1.061728 1.05 1
+vertex: -1.061728 1.35 1
+vertex: -1.061728 1.35 -1
+Fourth:
+vertex: -1.061728 1.35 -1
+vertex: -1.061728 1.05 -1
+vertex: -1.061728 1.05 1
+Fifth:
+vertex: -1.061728 1.35 -1
+vertex: -1.111111 1.35 1
+vertex: -1.111111 1.35 -1
+Sixth:
+vertex: -1.061728 1.35 -1
+vertex: -1.061728 1.35 1
+vertex: -1.111111 1.35 1
+Seventh:
+vertex: -1.111111 1.05 1
+vertex: -1.111111 1.35 1
+vertex: -1.111111 1.35 -1
+Eighth:
+vertex: -1.111111 1.05 1
+vertex: -1.111111 1.35 -1
+vertex: -1.111111 1.05 -1
+Nineth:
+vertex: -1.061728 1.05 1
+vertex: -1.111111 1.35 1
+vertex: -1.111111 1.05 1
+Tenth:
+vertex: -1.061728 1.05 1
+vertex: -1.111111 1.35 1
+vertex: -1.061728 1.35 1
+Eleventh:
+vertex: -1.111111 1.35 -1
+vertex: -1.111111 1.05 -1
+vertex: -1.061728 1.35 -1
+Twelwth:
+vertex: -1.111111 1.05 -1
+vertex: -1.061728 1.35 -1
+vertex: -1.061728 1.05 -1
+First:
+vertex: -1.012346 1.05 1
+vertex: -0.962963 1.05 1
+vertex: -0.962963 1.05 -1
+Second:
+vertex: -1.012346 1.05 1
+vertex: -0.962963 1.05 -1
+vertex: -1.012346 1.05 -1
+Third:
+vertex: -0.962963 1.05 1
+vertex: -0.962963 1.35 1
+vertex: -0.962963 1.35 -1
+Fourth:
+vertex: -0.962963 1.35 -1
+vertex: -0.962963 1.05 -1
+vertex: -0.962963 1.05 1
+Fifth:
+vertex: -0.962963 1.35 -1
+vertex: -1.012346 1.35 1
+vertex: -1.012346 1.35 -1
+Sixth:
+vertex: -0.962963 1.35 -1
+vertex: -0.962963 1.35 1
+vertex: -1.012346 1.35 1
+Seventh:
+vertex: -1.012346 1.05 1
+vertex: -1.012346 1.35 1
+vertex: -1.012346 1.35 -1
+Eighth:
+vertex: -1.012346 1.05 1
+vertex: -1.012346 1.35 -1
+vertex: -1.012346 1.05 -1
+Nineth:
+vertex: -0.962963 1.05 1
+vertex: -1.012346 1.35 1
+vertex: -1.012346 1.05 1
+Tenth:
+vertex: -0.962963 1.05 1
+vertex: -1.012346 1.35 1
+vertex: -0.962963 1.35 1
+Eleventh:
+vertex: -1.012346 1.35 -1
+vertex: -1.012346 1.05 -1
+vertex: -0.962963 1.35 -1
+Twelwth:
+vertex: -1.012346 1.05 -1
+vertex: -0.962963 1.35 -1
+vertex: -0.962963 1.05 -1
+First:
+vertex: -0.8148148 1.05 1
+vertex: -0.7654321 1.05 1
+vertex: -0.7654321 1.05 -1
+Second:
+vertex: -0.8148148 1.05 1
+vertex: -0.7654321 1.05 -1
+vertex: -0.8148148 1.05 -1
+Third:
+vertex: -0.7654321 1.05 1
+vertex: -0.7654321 1.35 1
+vertex: -0.7654321 1.35 -1
+Fourth:
+vertex: -0.7654321 1.35 -1
+vertex: -0.7654321 1.05 -1
+vertex: -0.7654321 1.05 1
+Fifth:
+vertex: -0.7654321 1.35 -1
+vertex: -0.8148148 1.35 1
+vertex: -0.8148148 1.35 -1
+Sixth:
+vertex: -0.7654321 1.35 -1
+vertex: -0.7654321 1.35 1
+vertex: -0.8148148 1.35 1
+Seventh:
+vertex: -0.8148148 1.05 1
+vertex: -0.8148148 1.35 1
+vertex: -0.8148148 1.35 -1
+Eighth:
+vertex: -0.8148148 1.05 1
+vertex: -0.8148148 1.35 -1
+vertex: -0.8148148 1.05 -1
+Nineth:
+vertex: -0.7654321 1.05 1
+vertex: -0.8148148 1.35 1
+vertex: -0.8148148 1.05 1
+Tenth:
+vertex: -0.7654321 1.05 1
+vertex: -0.8148148 1.35 1
+vertex: -0.7654321 1.35 1
+Eleventh:
+vertex: -0.8148148 1.35 -1
+vertex: -0.8148148 1.05 -1
+vertex: -0.7654321 1.35 -1
+Twelwth:
+vertex: -0.8148148 1.05 -1
+vertex: -0.7654321 1.35 -1
+vertex: -0.7654321 1.05 -1
+First:
+vertex: -0.7160494 1.05 1
+vertex: -0.6666667 1.05 1
+vertex: -0.6666667 1.05 -1
+Second:
+vertex: -0.7160494 1.05 1
+vertex: -0.6666667 1.05 -1
+vertex: -0.7160494 1.05 -1
+Third:
+vertex: -0.6666667 1.05 1
+vertex: -0.6666667 1.35 1
+vertex: -0.6666667 1.35 -1
+Fourth:
+vertex: -0.6666667 1.35 -1
+vertex: -0.6666667 1.05 -1
+vertex: -0.6666667 1.05 1
+Fifth:
+vertex: -0.6666667 1.35 -1
+vertex: -0.7160494 1.35 1
+vertex: -0.7160494 1.35 -1
+Sixth:
+vertex: -0.6666667 1.35 -1
+vertex: -0.6666667 1.35 1
+vertex: -0.7160494 1.35 1
+Seventh:
+vertex: -0.7160494 1.05 1
+vertex: -0.7160494 1.35 1
+vertex: -0.7160494 1.35 -1
+Eighth:
+vertex: -0.7160494 1.05 1
+vertex: -0.7160494 1.35 -1
+vertex: -0.7160494 1.05 -1
+Nineth:
+vertex: -0.6666667 1.05 1
+vertex: -0.7160494 1.35 1
+vertex: -0.7160494 1.05 1
+Tenth:
+vertex: -0.6666667 1.05 1
+vertex: -0.7160494 1.35 1
+vertex: -0.6666667 1.35 1
+Eleventh:
+vertex: -0.7160494 1.35 -1
+vertex: -0.7160494 1.05 -1
+vertex: -0.6666667 1.35 -1
+Twelwth:
+vertex: -0.7160494 1.05 -1
+vertex: -0.6666667 1.35 -1
+vertex: -0.6666667 1.05 -1
+First:
+vertex: 0.6666667 0.45 1
+vertex: 1.111111 0.45 1
+vertex: 1.111111 0.45 -1
+Second:
+vertex: 0.6666667 0.45 1
+vertex: 1.111111 0.45 -1
+vertex: 0.6666667 0.45 -1
+Third:
+vertex: 1.111111 0.45 1
+vertex: 1.111111 0.75 1
+vertex: 1.111111 0.75 -1
+Fourth:
+vertex: 1.111111 0.75 -1
+vertex: 1.111111 0.45 -1
+vertex: 1.111111 0.45 1
+Fifth:
+vertex: 1.111111 0.75 -1
+vertex: 0.6666667 0.75 1
+vertex: 0.6666667 0.75 -1
+Sixth:
+vertex: 1.111111 0.75 -1
+vertex: 1.111111 0.75 1
+vertex: 0.6666667 0.75 1
+Seventh:
+vertex: 0.6666667 0.45 1
+vertex: 0.6666667 0.75 1
+vertex: 0.6666667 0.75 -1
+Eighth:
+vertex: 0.6666667 0.45 1
+vertex: 0.6666667 0.75 -1
+vertex: 0.6666667 0.45 -1
+Nineth:
+vertex: 1.111111 0.45 1
+vertex: 0.6666667 0.75 1
+vertex: 0.6666667 0.45 1
+Tenth:
+vertex: 1.111111 0.45 1
+vertex: 0.6666667 0.75 1
+vertex: 1.111111 0.75 1
+Eleventh:
+vertex: 0.6666667 0.75 -1
+vertex: 0.6666667 0.45 -1
+vertex: 1.111111 0.75 -1
+Twelwth:
+vertex: 0.6666667 0.45 -1
+vertex: 1.111111 0.75 -1
+vertex: 1.111111 0.45 -1
+First:
+vertex: 1.555556 0.45 1
+vertex: 2 0.45 1
+vertex: 2 0.45 -1
+Second:
+vertex: 1.555556 0.45 1
+vertex: 2 0.45 -1
+vertex: 1.555556 0.45 -1
+Third:
+vertex: 2 0.45 1
+vertex: 2 0.75 1
+vertex: 2 0.75 -1
+Fourth:
+vertex: 2 0.75 -1
+vertex: 2 0.45 -1
+vertex: 2 0.45 1
+Fifth:
+vertex: 2 0.75 -1
+vertex: 1.555556 0.75 1
+vertex: 1.555556 0.75 -1
+Sixth:
+vertex: 2 0.75 -1
+vertex: 2 0.75 1
+vertex: 1.555556 0.75 1
+Seventh:
+vertex: 1.555556 0.45 1
+vertex: 1.555556 0.75 1
+vertex: 1.555556 0.75 -1
+Eighth:
+vertex: 1.555556 0.45 1
+vertex: 1.555556 0.75 -1
+vertex: 1.555556 0.45 -1
+Nineth:
+vertex: 2 0.45 1
+vertex: 1.555556 0.75 1
+vertex: 1.555556 0.45 1
+Tenth:
+vertex: 2 0.45 1
+vertex: 1.555556 0.75 1
+vertex: 2 0.75 1
+Eleventh:
+vertex: 1.555556 0.75 -1
+vertex: 1.555556 0.45 -1
+vertex: 2 0.75 -1
+Twelwth:
+vertex: 1.555556 0.45 -1
+vertex: 2 0.75 -1
+vertex: 2 0.45 -1
+First:
+vertex: 0.6666667 0.75 1
+vertex: 0.8148148 0.75 1
+vertex: 0.8148148 0.75 -1
+Second:
+vertex: 0.6666667 0.75 1
+vertex: 0.8148148 0.75 -1
+vertex: 0.6666667 0.75 -1
+Third:
+vertex: 0.8148148 0.75 1
+vertex: 0.8148148 1.05 1
+vertex: 0.8148148 1.05 -1
+Fourth:
+vertex: 0.8148148 1.05 -1
+vertex: 0.8148148 0.75 -1
+vertex: 0.8148148 0.75 1
+Fifth:
+vertex: 0.8148148 1.05 -1
+vertex: 0.6666667 1.05 1
+vertex: 0.6666667 1.05 -1
+Sixth:
+vertex: 0.8148148 1.05 -1
+vertex: 0.8148148 1.05 1
+vertex: 0.6666667 1.05 1
+Seventh:
+vertex: 0.6666667 0.75 1
+vertex: 0.6666667 1.05 1
+vertex: 0.6666667 1.05 -1
+Eighth:
+vertex: 0.6666667 0.75 1
+vertex: 0.6666667 1.05 -1
+vertex: 0.6666667 0.75 -1
+Nineth:
+vertex: 0.8148148 0.75 1
+vertex: 0.6666667 1.05 1
+vertex: 0.6666667 0.75 1
+Tenth:
+vertex: 0.8148148 0.75 1
+vertex: 0.6666667 1.05 1
+vertex: 0.8148148 1.05 1
+Eleventh:
+vertex: 0.6666667 1.05 -1
+vertex: 0.6666667 0.75 -1
+vertex: 0.8148148 1.05 -1
+Twelwth:
+vertex: 0.6666667 0.75 -1
+vertex: 0.8148148 1.05 -1
+vertex: 0.8148148 0.75 -1
+First:
+vertex: 0.962963 0.75 1
+vertex: 1.111111 0.75 1
+vertex: 1.111111 0.75 -1
+Second:
+vertex: 0.962963 0.75 1
+vertex: 1.111111 0.75 -1
+vertex: 0.962963 0.75 -1
+Third:
+vertex: 1.111111 0.75 1
+vertex: 1.111111 1.05 1
+vertex: 1.111111 1.05 -1
+Fourth:
+vertex: 1.111111 1.05 -1
+vertex: 1.111111 0.75 -1
+vertex: 1.111111 0.75 1
+Fifth:
+vertex: 1.111111 1.05 -1
+vertex: 0.962963 1.05 1
+vertex: 0.962963 1.05 -1
+Sixth:
+vertex: 1.111111 1.05 -1
+vertex: 1.111111 1.05 1
+vertex: 0.962963 1.05 1
+Seventh:
+vertex: 0.962963 0.75 1
+vertex: 0.962963 1.05 1
+vertex: 0.962963 1.05 -1
+Eighth:
+vertex: 0.962963 0.75 1
+vertex: 0.962963 1.05 -1
+vertex: 0.962963 0.75 -1
+Nineth:
+vertex: 1.111111 0.75 1
+vertex: 0.962963 1.05 1
+vertex: 0.962963 0.75 1
+Tenth:
+vertex: 1.111111 0.75 1
+vertex: 0.962963 1.05 1
+vertex: 1.111111 1.05 1
+Eleventh:
+vertex: 0.962963 1.05 -1
+vertex: 0.962963 0.75 -1
+vertex: 1.111111 1.05 -1
+Twelwth:
+vertex: 0.962963 0.75 -1
+vertex: 1.111111 1.05 -1
+vertex: 1.111111 0.75 -1
+First:
+vertex: 0.6666667 1.05 1
+vertex: 0.7160494 1.05 1
+vertex: 0.7160494 1.05 -1
+Second:
+vertex: 0.6666667 1.05 1
+vertex: 0.7160494 1.05 -1
+vertex: 0.6666667 1.05 -1
+Third:
+vertex: 0.7160494 1.05 1
+vertex: 0.7160494 1.35 1
+vertex: 0.7160494 1.35 -1
+Fourth:
+vertex: 0.7160494 1.35 -1
+vertex: 0.7160494 1.05 -1
+vertex: 0.7160494 1.05 1
+Fifth:
+vertex: 0.7160494 1.35 -1
+vertex: 0.6666667 1.35 1
+vertex: 0.6666667 1.35 -1
+Sixth:
+vertex: 0.7160494 1.35 -1
+vertex: 0.7160494 1.35 1
+vertex: 0.6666667 1.35 1
+Seventh:
+vertex: 0.6666667 1.05 1
+vertex: 0.6666667 1.35 1
+vertex: 0.6666667 1.35 -1
+Eighth:
+vertex: 0.6666667 1.05 1
+vertex: 0.6666667 1.35 -1
+vertex: 0.6666667 1.05 -1
+Nineth:
+vertex: 0.7160494 1.05 1
+vertex: 0.6666667 1.35 1
+vertex: 0.6666667 1.05 1
+Tenth:
+vertex: 0.7160494 1.05 1
+vertex: 0.6666667 1.35 1
+vertex: 0.7160494 1.35 1
+Eleventh:
+vertex: 0.6666667 1.35 -1
+vertex: 0.6666667 1.05 -1
+vertex: 0.7160494 1.35 -1
+Twelwth:
+vertex: 0.6666667 1.05 -1
+vertex: 0.7160494 1.35 -1
+vertex: 0.7160494 1.05 -1
+First:
+vertex: 0.7654321 1.05 1
+vertex: 0.8148148 1.05 1
+vertex: 0.8148148 1.05 -1
+Second:
+vertex: 0.7654321 1.05 1
+vertex: 0.8148148 1.05 -1
+vertex: 0.7654321 1.05 -1
+Third:
+vertex: 0.8148148 1.05 1
+vertex: 0.8148148 1.35 1
+vertex: 0.8148148 1.35 -1
+Fourth:
+vertex: 0.8148148 1.35 -1
+vertex: 0.8148148 1.05 -1
+vertex: 0.8148148 1.05 1
+Fifth:
+vertex: 0.8148148 1.35 -1
+vertex: 0.7654321 1.35 1
+vertex: 0.7654321 1.35 -1
+Sixth:
+vertex: 0.8148148 1.35 -1
+vertex: 0.8148148 1.35 1
+vertex: 0.7654321 1.35 1
+Seventh:
+vertex: 0.7654321 1.05 1
+vertex: 0.7654321 1.35 1
+vertex: 0.7654321 1.35 -1
+Eighth:
+vertex: 0.7654321 1.05 1
+vertex: 0.7654321 1.35 -1
+vertex: 0.7654321 1.05 -1
+Nineth:
+vertex: 0.8148148 1.05 1
+vertex: 0.7654321 1.35 1
+vertex: 0.7654321 1.05 1
+Tenth:
+vertex: 0.8148148 1.05 1
+vertex: 0.7654321 1.35 1
+vertex: 0.8148148 1.35 1
+Eleventh:
+vertex: 0.7654321 1.35 -1
+vertex: 0.7654321 1.05 -1
+vertex: 0.8148148 1.35 -1
+Twelwth:
+vertex: 0.7654321 1.05 -1
+vertex: 0.8148148 1.35 -1
+vertex: 0.8148148 1.05 -1
+First:
+vertex: 0.962963 1.05 1
+vertex: 1.012346 1.05 1
+vertex: 1.012346 1.05 -1
+Second:
+vertex: 0.962963 1.05 1
+vertex: 1.012346 1.05 -1
+vertex: 0.962963 1.05 -1
+Third:
+vertex: 1.012346 1.05 1
+vertex: 1.012346 1.35 1
+vertex: 1.012346 1.35 -1
+Fourth:
+vertex: 1.012346 1.35 -1
+vertex: 1.012346 1.05 -1
+vertex: 1.012346 1.05 1
+Fifth:
+vertex: 1.012346 1.35 -1
+vertex: 0.962963 1.35 1
+vertex: 0.962963 1.35 -1
+Sixth:
+vertex: 1.012346 1.35 -1
+vertex: 1.012346 1.35 1
+vertex: 0.962963 1.35 1
+Seventh:
+vertex: 0.962963 1.05 1
+vertex: 0.962963 1.35 1
+vertex: 0.962963 1.35 -1
+Eighth:
+vertex: 0.962963 1.05 1
+vertex: 0.962963 1.35 -1
+vertex: 0.962963 1.05 -1
+Nineth:
+vertex: 1.012346 1.05 1
+vertex: 0.962963 1.35 1
+vertex: 0.962963 1.05 1
+Tenth:
+vertex: 1.012346 1.05 1
+vertex: 0.962963 1.35 1
+vertex: 1.012346 1.35 1
+Eleventh:
+vertex: 0.962963 1.35 -1
+vertex: 0.962963 1.05 -1
+vertex: 1.012346 1.35 -1
+Twelwth:
+vertex: 0.962963 1.05 -1
+vertex: 1.012346 1.35 -1
+vertex: 1.012346 1.05 -1
+First:
+vertex: 1.061728 1.05 1
+vertex: 1.111111 1.05 1
+vertex: 1.111111 1.05 -1
+Second:
+vertex: 1.061728 1.05 1
+vertex: 1.111111 1.05 -1
+vertex: 1.061728 1.05 -1
+Third:
+vertex: 1.111111 1.05 1
+vertex: 1.111111 1.35 1
+vertex: 1.111111 1.35 -1
+Fourth:
+vertex: 1.111111 1.35 -1
+vertex: 1.111111 1.05 -1
+vertex: 1.111111 1.05 1
+Fifth:
+vertex: 1.111111 1.35 -1
+vertex: 1.061728 1.35 1
+vertex: 1.061728 1.35 -1
+Sixth:
+vertex: 1.111111 1.35 -1
+vertex: 1.111111 1.35 1
+vertex: 1.061728 1.35 1
+Seventh:
+vertex: 1.061728 1.05 1
+vertex: 1.061728 1.35 1
+vertex: 1.061728 1.35 -1
+Eighth:
+vertex: 1.061728 1.05 1
+vertex: 1.061728 1.35 -1
+vertex: 1.061728 1.05 -1
+Nineth:
+vertex: 1.111111 1.05 1
+vertex: 1.061728 1.35 1
+vertex: 1.061728 1.05 1
+Tenth:
+vertex: 1.111111 1.05 1
+vertex: 1.061728 1.35 1
+vertex: 1.111111 1.35 1
+Eleventh:
+vertex: 1.061728 1.35 -1
+vertex: 1.061728 1.05 -1
+vertex: 1.111111 1.35 -1
+Twelwth:
+vertex: 1.061728 1.05 -1
+vertex: 1.111111 1.35 -1
+vertex: 1.111111 1.05 -1
+First:
+vertex: 1.555556 0.75 1
+vertex: 1.703704 0.75 1
+vertex: 1.703704 0.75 -1
+Second:
+vertex: 1.555556 0.75 1
+vertex: 1.703704 0.75 -1
+vertex: 1.555556 0.75 -1
+Third:
+vertex: 1.703704 0.75 1
+vertex: 1.703704 1.05 1
+vertex: 1.703704 1.05 -1
+Fourth:
+vertex: 1.703704 1.05 -1
+vertex: 1.703704 0.75 -1
+vertex: 1.703704 0.75 1
+Fifth:
+vertex: 1.703704 1.05 -1
+vertex: 1.555556 1.05 1
+vertex: 1.555556 1.05 -1
+Sixth:
+vertex: 1.703704 1.05 -1
+vertex: 1.703704 1.05 1
+vertex: 1.555556 1.05 1
+Seventh:
+vertex: 1.555556 0.75 1
+vertex: 1.555556 1.05 1
+vertex: 1.555556 1.05 -1
+Eighth:
+vertex: 1.555556 0.75 1
+vertex: 1.555556 1.05 -1
+vertex: 1.555556 0.75 -1
+Nineth:
+vertex: 1.703704 0.75 1
+vertex: 1.555556 1.05 1
+vertex: 1.555556 0.75 1
+Tenth:
+vertex: 1.703704 0.75 1
+vertex: 1.555556 1.05 1
+vertex: 1.703704 1.05 1
+Eleventh:
+vertex: 1.555556 1.05 -1
+vertex: 1.555556 0.75 -1
+vertex: 1.703704 1.05 -1
+Twelwth:
+vertex: 1.555556 0.75 -1
+vertex: 1.703704 1.05 -1
+vertex: 1.703704 0.75 -1
+First:
+vertex: 1.851852 0.75 1
+vertex: 2 0.75 1
+vertex: 2 0.75 -1
+Second:
+vertex: 1.851852 0.75 1
+vertex: 2 0.75 -1
+vertex: 1.851852 0.75 -1
+Third:
+vertex: 2 0.75 1
+vertex: 2 1.05 1
+vertex: 2 1.05 -1
+Fourth:
+vertex: 2 1.05 -1
+vertex: 2 0.75 -1
+vertex: 2 0.75 1
+Fifth:
+vertex: 2 1.05 -1
+vertex: 1.851852 1.05 1
+vertex: 1.851852 1.05 -1
+Sixth:
+vertex: 2 1.05 -1
+vertex: 2 1.05 1
+vertex: 1.851852 1.05 1
+Seventh:
+vertex: 1.851852 0.75 1
+vertex: 1.851852 1.05 1
+vertex: 1.851852 1.05 -1
+Eighth:
+vertex: 1.851852 0.75 1
+vertex: 1.851852 1.05 -1
+vertex: 1.851852 0.75 -1
+Nineth:
+vertex: 2 0.75 1
+vertex: 1.851852 1.05 1
+vertex: 1.851852 0.75 1
+Tenth:
+vertex: 2 0.75 1
+vertex: 1.851852 1.05 1
+vertex: 2 1.05 1
+Eleventh:
+vertex: 1.851852 1.05 -1
+vertex: 1.851852 0.75 -1
+vertex: 2 1.05 -1
+Twelwth:
+vertex: 1.851852 0.75 -1
+vertex: 2 1.05 -1
+vertex: 2 0.75 -1
+First:
+vertex: 1.555556 1.05 1
+vertex: 1.604938 1.05 1
+vertex: 1.604938 1.05 -1
+Second:
+vertex: 1.555556 1.05 1
+vertex: 1.604938 1.05 -1
+vertex: 1.555556 1.05 -1
+Third:
+vertex: 1.604938 1.05 1
+vertex: 1.604938 1.35 1
+vertex: 1.604938 1.35 -1
+Fourth:
+vertex: 1.604938 1.35 -1
+vertex: 1.604938 1.05 -1
+vertex: 1.604938 1.05 1
+Fifth:
+vertex: 1.604938 1.35 -1
+vertex: 1.555556 1.35 1
+vertex: 1.555556 1.35 -1
+Sixth:
+vertex: 1.604938 1.35 -1
+vertex: 1.604938 1.35 1
+vertex: 1.555556 1.35 1
+Seventh:
+vertex: 1.555556 1.05 1
+vertex: 1.555556 1.35 1
+vertex: 1.555556 1.35 -1
+Eighth:
+vertex: 1.555556 1.05 1
+vertex: 1.555556 1.35 -1
+vertex: 1.555556 1.05 -1
+Nineth:
+vertex: 1.604938 1.05 1
+vertex: 1.555556 1.35 1
+vertex: 1.555556 1.05 1
+Tenth:
+vertex: 1.604938 1.05 1
+vertex: 1.555556 1.35 1
+vertex: 1.604938 1.35 1
+Eleventh:
+vertex: 1.555556 1.35 -1
+vertex: 1.555556 1.05 -1
+vertex: 1.604938 1.35 -1
+Twelwth:
+vertex: 1.555556 1.05 -1
+vertex: 1.604938 1.35 -1
+vertex: 1.604938 1.05 -1
+First:
+vertex: 1.654321 1.05 1
+vertex: 1.703704 1.05 1
+vertex: 1.703704 1.05 -1
+Second:
+vertex: 1.654321 1.05 1
+vertex: 1.703704 1.05 -1
+vertex: 1.654321 1.05 -1
+Third:
+vertex: 1.703704 1.05 1
+vertex: 1.703704 1.35 1
+vertex: 1.703704 1.35 -1
+Fourth:
+vertex: 1.703704 1.35 -1
+vertex: 1.703704 1.05 -1
+vertex: 1.703704 1.05 1
+Fifth:
+vertex: 1.703704 1.35 -1
+vertex: 1.654321 1.35 1
+vertex: 1.654321 1.35 -1
+Sixth:
+vertex: 1.703704 1.35 -1
+vertex: 1.703704 1.35 1
+vertex: 1.654321 1.35 1
+Seventh:
+vertex: 1.654321 1.05 1
+vertex: 1.654321 1.35 1
+vertex: 1.654321 1.35 -1
+Eighth:
+vertex: 1.654321 1.05 1
+vertex: 1.654321 1.35 -1
+vertex: 1.654321 1.05 -1
+Nineth:
+vertex: 1.703704 1.05 1
+vertex: 1.654321 1.35 1
+vertex: 1.654321 1.05 1
+Tenth:
+vertex: 1.703704 1.05 1
+vertex: 1.654321 1.35 1
+vertex: 1.703704 1.35 1
+Eleventh:
+vertex: 1.654321 1.35 -1
+vertex: 1.654321 1.05 -1
+vertex: 1.703704 1.35 -1
+Twelwth:
+vertex: 1.654321 1.05 -1
+vertex: 1.703704 1.35 -1
+vertex: 1.703704 1.05 -1
+First:
+vertex: 1.851852 1.05 1
+vertex: 1.901235 1.05 1
+vertex: 1.901235 1.05 -1
+Second:
+vertex: 1.851852 1.05 1
+vertex: 1.901235 1.05 -1
+vertex: 1.851852 1.05 -1
+Third:
+vertex: 1.901235 1.05 1
+vertex: 1.901235 1.35 1
+vertex: 1.901235 1.35 -1
+Fourth:
+vertex: 1.901235 1.35 -1
+vertex: 1.901235 1.05 -1
+vertex: 1.901235 1.05 1
+Fifth:
+vertex: 1.901235 1.35 -1
+vertex: 1.851852 1.35 1
+vertex: 1.851852 1.35 -1
+Sixth:
+vertex: 1.901235 1.35 -1
+vertex: 1.901235 1.35 1
+vertex: 1.851852 1.35 1
+Seventh:
+vertex: 1.851852 1.05 1
+vertex: 1.851852 1.35 1
+vertex: 1.851852 1.35 -1
+Eighth:
+vertex: 1.851852 1.05 1
+vertex: 1.851852 1.35 -1
+vertex: 1.851852 1.05 -1
+Nineth:
+vertex: 1.901235 1.05 1
+vertex: 1.851852 1.35 1
+vertex: 1.851852 1.05 1
+Tenth:
+vertex: 1.901235 1.05 1
+vertex: 1.851852 1.35 1
+vertex: 1.901235 1.35 1
+Eleventh:
+vertex: 1.851852 1.35 -1
+vertex: 1.851852 1.05 -1
+vertex: 1.901235 1.35 -1
+Twelwth:
+vertex: 1.851852 1.05 -1
+vertex: 1.901235 1.35 -1
+vertex: 1.901235 1.05 -1
+First:
+vertex: 1.950617 1.05 1
+vertex: 2 1.05 1
+vertex: 2 1.05 -1
+Second:
+vertex: 1.950617 1.05 1
+vertex: 2 1.05 -1
+vertex: 1.950617 1.05 -1
+Third:
+vertex: 2 1.05 1
+vertex: 2 1.35 1
+vertex: 2 1.35 -1
+Fourth:
+vertex: 2 1.35 -1
+vertex: 2 1.05 -1
+vertex: 2 1.05 1
+Fifth:
+vertex: 2 1.35 -1
+vertex: 1.950617 1.35 1
+vertex: 1.950617 1.35 -1
+Sixth:
+vertex: 2 1.35 -1
+vertex: 2 1.35 1
+vertex: 1.950617 1.35 1
+Seventh:
+vertex: 1.950617 1.05 1
+vertex: 1.950617 1.35 1
+vertex: 1.950617 1.35 -1
+Eighth:
+vertex: 1.950617 1.05 1
+vertex: 1.950617 1.35 -1
+vertex: 1.950617 1.05 -1
+Nineth:
+vertex: 2 1.05 1
+vertex: 1.950617 1.35 1
+vertex: 1.950617 1.05 1
+Tenth:
+vertex: 2 1.05 1
+vertex: 1.950617 1.35 1
+vertex: 2 1.35 1
+Eleventh:
+vertex: 1.950617 1.35 -1
+vertex: 1.950617 1.05 -1
+vertex: 2 1.35 -1
+Twelwth:
+vertex: 1.950617 1.05 -1
+vertex: 2 1.35 -1
+vertex: 2 1.05 -1

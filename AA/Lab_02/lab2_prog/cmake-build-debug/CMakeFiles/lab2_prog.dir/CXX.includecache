@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/Matrix.h
+Row.h
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/Row.h
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/Row.h
+vector
+-
+limits
+-
+exception
+-
+ostream
+-
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/counter.cpp
+counter.h
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/counter.h
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/counter.h
+cstdint
+-
+iostream
+-
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+Matrix.h
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/Matrix.h
+counter.h
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab2_prog/counter.h
+

@@ -1,0 +1,18 @@
+{
+  "name": "Lab_02",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main_04_02.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}

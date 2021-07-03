@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab7_prog/Cell.h
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab7_prog/Dictionary.h
+string
+-
+cstring
+-
+vector
+-
+fstream
+-
+iostream
+-
+algorithm
+-
+sstream
+-
+Cell.h
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab7_prog/Cell.h
+MyTimer.h
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab7_prog/MyTimer.h
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab7_prog/MyTimer.h
+chrono
+-
+
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab7_prog/main.cpp
+Dictionary.h
+/Users/demonblo/Desktop/AA_2020/aa_2020/lab7_prog/Dictionary.h
+

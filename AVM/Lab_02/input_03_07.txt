@@ -1,0 +1,1 @@
+{"name":"seven","left":{"name":"five","left":{"name":"two","left":{"name":"one","left":{"name":"zero","left":null,"right":null},"right":null},"right":null},"right":{"name":"three","left":null,"right":null}},"right":{"name":"six","left":{"name":"four","left":null,"right":null},"right":{"name":"zero","left":null,"right":null}}}
